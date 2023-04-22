@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color:  #0B1D26;
+    font-family: 'Heebo', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.logo{
+    position: absolute;
+    margin-right: 1100px;
+    margin-top: 10px;
+}
+.account{
+    display: flex;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+
+ul{
+    display: flex;
+    margin: 20px;
+}
+li{
+    margin: 20px;
+    list-style: none;
+}
+#acc{
+    height: 20px;
+    margin-top: 25px;
+    margin-right: 15px;
+    
+}
+.yellow{
+    display: flex;
+    margin-right: 380px;
+    margin-top: 150px;
+}
+#line{
+    height: 1px;
+    margin-top: 28px;
+    margin-left: -0px;
+    margin-right: 20px;
+}
+#lin{
+    height: 1px;
+    margin-top: 48px;
+    margin-left: -60px;
+    margin-right: 20px;
+}
+h3{
+    color: #FBD784;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    margin-top: -40px;
+    font-size: 30px;
+    margin-left: 90px;
+    width: 700px;
+}
+#big{
+    font-size: 140px;
+    opacity: 0.1;
+   margin-top: -30px;
+   
+}
+.upper{
+    display: flex;
+    margin-top: 0px;
+    
+}
+.start{
+    display: flex;
+    
+   
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 90px;
+    width: 1000px;
+    
+}
+.data{
+    margin: 80px;
+}
+.photo{
+    margin: 80px;
+}
+#yellow{
+    
+    
+    margin-top: 36px;
+}
+.lower{
+    margin-top: -230px;
+    margin-left: 70px;
+}
+button{
+    display: flex;
+    color: #FBD784;
+    background-color: #0B1D26;
+    border: none;
+}
+#arrow{
+    margin-left: 12px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    
+    
+}
+.about{
+    margin: 40px;
+    width: 340px;
+    margin-left: 00px;
+    
+}
+.more{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    margin-left: 270px;
+}
+.mntn{
+    margin-left: 20px;
+    width: 200px;
+    margin-right: -80px;
+}
+.blog
+{
+width: 300px;
+}
+.copy{
+    margin-top: 90px;
+    opacity: 0.5;
+}
+#blog{
+    color: #FBD784;
+}
